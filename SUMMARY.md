@@ -39,7 +39,7 @@
 * [2. 사양](2-specifications/README.md)
   * [2.1. 로봇 기구부 형식](2-specifications/1-Robot_Machinery_Part.md)
   * [2.2. 로봇 명판 위치](2-specifications/2-Location_of_Robot_Identificatyion_Plate.md)
-  * [2.3. 기본 사양](2-specifications/3-Basic_Specifications.md)
+  * [2.3. 기본 사양](2-specifications/3-basic_specifications.md)
   * [2.4. 본체 외형 치수 및 동작 영역](2-specifications/4-Robot_Dimensions_and_Working_Envelope.md)
   * [2.5. 동작 축 명칭](2-specifications/5-Axis_Identification.md) 
   * [2.6. 손목축 취부면 상세도](2-specifications/6-Details_of_Wrist_Axis_attachment_Surface.md)

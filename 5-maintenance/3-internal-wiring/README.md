@@ -18,7 +18,7 @@
   <tr>
     <td>
     <div align="center">
-      <img src="../_assets/주의표시.png" width = 80 height = 80>
+      <img src="../../_assets/주의표시.png" width = 80 height = 80>
     </div>
     </td>
     <td colspan="4">
