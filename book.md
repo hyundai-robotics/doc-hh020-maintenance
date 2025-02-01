@@ -2822,7 +2822,7 @@ H축을 몇 분간 움직이면서 오래 된 그리스를 뽑아낸 후, 새 �
   <tr>
     <td>
     <div align="center">
-      <img src="../_assets/주의표시.png" width = 80 height = 80>
+      <img src="../../_assets/주의표시.png" width = 80 height = 80>
     </div>
     </td>
     <td colspan="4">
